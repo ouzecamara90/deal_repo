@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.photo{
+  width : 50%;
+  height : 30%;
+  border-radius: 50%;
+  justify-content: center;
+}
